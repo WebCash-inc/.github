@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="img/webcash.png" width="400"/>
+<img src="https://github.com/WebCash-inc/.github/blob/5aa2238a39060d9cad204c07069ae181f94bf3b2/img/webcash.png" width="400"/>
 
 ### Transformando Ideias em Soluções Web Profissionais
 
